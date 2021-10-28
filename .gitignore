@@ -1,0 +1,11 @@
+build/
+lib/
+.gdb_history
+cmake-build-debug/
+.idea/
+maps/
+coverage/
+gmon.out
+/gmon.out
+*.avi
+docs/
